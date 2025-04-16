@@ -1,0 +1,7 @@
+gradio==4.19.2
+numpy==1.23.5
+whisper
+transformers
+TTS
+torch
+pydub
